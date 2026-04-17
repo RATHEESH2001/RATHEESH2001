@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ratheesh</h1>
+  <h1>RATHEESH C</h1>
   <p>Full‑stack web developer building fast, clean, production-ready apps.</p>
   <p>
     <a href="https://instagram.com/ratheesh._.2001">
