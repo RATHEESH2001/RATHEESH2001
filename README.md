@@ -23,6 +23,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=RATHEESH2001&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🐍 Contribution Graph Snake Animation
-![Platane/snk](https://raw.githubusercontent.com/RATHEESH2001/RATHEESH2001/output/github-contribution-grid-snake.svg)
+## 🔸 Contribution 
+[![Profile Views](https://komarev.com/ghpvc/?username=RATHEESH2001&color=0969da&icon=github)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
